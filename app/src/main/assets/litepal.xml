@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="ws_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.ws.wsweather.db.Province"/>
+        <mapping class="com.ws.wsweather.db.City"/>
+        <mapping class="com.ws.wsweather.db.County"/>
+    </list>
+</litepal>
